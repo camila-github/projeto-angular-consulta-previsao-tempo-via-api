@@ -1,3 +1,3 @@
-## Projeto: Consulta de previsão do tempo via API utilizando Angular
+## Projeto DIO: Consulta de previsão do tempo via API utilizando Angular
 
 
